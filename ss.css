@@ -1,0 +1,14 @@
+.d-block{
+    width:100vw;
+    height: 20rem;
+    object-fit: cover;
+}
+
+.nav-link{
+    text-align: center;
+}
+.card{
+
+    background-size: cover;
+    width: 100%;
+}
